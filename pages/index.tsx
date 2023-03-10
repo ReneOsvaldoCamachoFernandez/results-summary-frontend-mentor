@@ -29,7 +29,7 @@ export default function Home() {
             <p className="mb-2 xl:mb-0 text-2xl font-semibold xl:text-3xl">
               Great
             </p>
-            <p className="px-10 xl:px-6 mb-3  text-sm opacity-70 xl:text-xl xl:text-center ">
+            <p className="px-10 xl:px-6 mb-3  text-sm opacity-70 xl:text-xl text-center ">
               You scored higher than 65% of the people who have taken these
               tests.
             </p>
