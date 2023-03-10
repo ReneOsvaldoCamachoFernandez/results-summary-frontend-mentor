@@ -114,7 +114,7 @@ export default function Home() {
               </div>
               <a
                 href="#"
-                className="text-white text-center bg-[#303B5A] rounded-full p-3 xl:my-5"
+                className="text-white text-center bg-[#303B5A] rounded-full p-3 xl:my-5 hover:bg-gradient-to-b from-[#7857FF] to-[#2E2BE9]"
               >
                 Continue
               </a>
