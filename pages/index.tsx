@@ -82,7 +82,10 @@ export default function Home() {
           </p>
           <p>
             Coded by{" "}
-            <a href="https://github.com/ReneOsvaldoCamachoFernandez">
+            <a
+              href="https://github.com/ReneOsvaldoCamachoFernandez"
+              target="_blank"
+            >
               Rene Osvaldo Camacho Fernandez
             </a>
           </p>
